@@ -1,3 +1,10 @@
+# 2020
+
+- 利用 COVID-19
+  - 盜用多個 Twitter 帳號，利用各種主題包含 COVID-19 ，發布虛假的貼文，聲稱只要向特定比特幣地址發送價值 1000 美金的虛擬貨幣，就能得到價值 2000 美金的虛擬貨幣的回報
+  - 部分貼文以向 COVID-19 救助捐款為由
+  - 被盜用的帳號包含： former president Barack Obama, Joe Biden, Mike Bloomberg, Elon Musk, Bill Gates, Kanye West, Uber, Apple (前總統巴拉克·奧巴馬、喬·拜登、埃隆·馬斯克、邁克·布隆伯格、比爾·蓋茨、坎耶·韋斯特、優步和蘋果)
+
 # 2019
 - Shitcoin Wallet
   - 這是一個惡意的 Google Chrome Plugin ，稱為："Shitcoin Wallet"，於 2019.12.08 發布
