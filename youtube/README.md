@@ -1,0 +1,2 @@
+- [10個必學加密貨幣投資知識 |【穩定幣, defi, 出入金, 充值, 交易所, 轉幣】](https://hackmd.io/3POPKYkaQ_yXNh8VdhW3RQ?view)
+  - 取自 [Youtube](https://www.youtube.com/watch?v=6hCC2nkyk3c&t=654s&ab_channel=BetterLeaf%E5%A5%BD%E8%91%89) 
