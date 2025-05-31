@@ -1,5 +1,7 @@
 - [2025][比特幣交易所的「平台幣」可以買嗎？｜加密貨幣賽道系列：平台幣](https://hackmd.io/0Wb5kQQoR2SNmIi5UcVcDA?view)
   - 取自 [Youtube](https://www.youtube.com/watch?v=AwJZN_OrOWU&ab_channel=%E8%85%A6%E5%93%A5Chill%E5%A1%8A%E9%8F%88) 
+- [2024][完全入門！台幣購買加密貨幣最完整教學：挑選平台、福利開戶、銀行入金、虛擬貨幣賺錢的節稅方法----國稅局想的竟然跟我們不同！](https://hackmd.io/Onp6ggfOQyaeiy_RwAXS-g?view)
+  - 取自 [Youtube](https://www.youtube.com/watch?v=TfNgUvADl2k&ab_channel=%E8%85%A6%E5%93%A5Chill%E5%A1%8A%E9%8F%88) 
 - [2024][比特幣投資人必備 5 種最常用的工具](https://hackmd.io/Wi9kiu8QQo6OWCbeN4gcFQ?edit)
   - 取自 [Youtube](https://www.youtube.com/watch?v=9ADsi8OmDK0&ab_channel=%E8%85%A6%E5%93%A5Chill%E5%A1%8A%E9%8F%88)
 - [2022][我想自學幣圈資訊！全免費中英文新聞、Podcast、Youtube、文章內容、社群資源大整理！虛擬貨幣新手必看](https://hackmd.io/Yz6hIHivRc2YPNKV1C_9lw?view)
